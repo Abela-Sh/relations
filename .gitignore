@@ -132,3 +132,6 @@ dist
 #Custom
 .eslintrc.js
 .prettierrc
+
+# Ignore pnpm lock file
+pnpm-lock.yaml
